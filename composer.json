@@ -1,8 +1,14 @@
 {
+    "name": "Legenyes/OC-WebLinks",
+    "description": "This is a very cool package!",
+    "version": "1.0.0",
+    "homepage": "http://seb.leveque.ovh/WebLinks/web/",
+    "time": "2016-12-28",
+    "license": "proprietary",
     "require": {
-        "silex/silex": "~1.2",
-        "doctrine/dbal": "~2.4",
-        "twig/twig": "~1.16"
+        "silex/silex": "~1.*",
+        "doctrine/dbal": "~2.*",
+        "twig/twig": "~1.*"
     },
     "autoload": {
         "psr-4": {"WebLinks\\": "src"}

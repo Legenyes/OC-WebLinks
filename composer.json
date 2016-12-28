@@ -6,9 +6,9 @@
     "time": "2016-12-28",
     "license": "proprietary",
     "require": {
-        "silex/silex": "~1.*",
-        "doctrine/dbal": "~2.*",
-        "twig/twig": "~1.*"
+        "silex/silex": "dev-master",
+        "doctrine/dbal": "dev-master",
+        "twig/twig": "dev-master"
     },
     "autoload": {
         "psr-4": {"WebLinks\\": "src"}
